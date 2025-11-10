@@ -5,7 +5,7 @@ Custom YOLOv8-L model trained to detect common Dhaka road users:
 
 The goal is a practical detector that understands local vehicle types (e.g., rickshaw, CNG) in busy street scenes.
 
----
+
 
 ## Why this project?
 
@@ -15,7 +15,7 @@ This project packages a reproducible YOLOv8 pipeline for **training, validation,
 **Weights:** `best_v8l_896.pt` (add via GitHub Release)  
 **Dataset:** [Mendeley Traffic Dataset](https://data.mendeley.com/datasets/h8bfgtdp2r/4)
 
----
+
 
 ## Dataset & config
 
