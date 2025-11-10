@@ -1,0 +1,16 @@
+```yaml
+# TFPBD YOLO dataset config (local paths on Windows)
+
+train: D:/TFPBD_YOLO/images/train
+val:   D:/TFPBD_YOLO/images/val
+test:  D:/TFPBD_YOLO/images/test
+
+names:
+  0: person
+  1: bicycle
+  2: rickshaw
+  3: cng
+  4: car
+  5: van
+  6: bus
+  7: truck
